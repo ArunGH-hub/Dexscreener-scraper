@@ -1,4 +1,4 @@
-# code taken from chatgpt
+# code taken from LLM
 
 import time
 import csv
